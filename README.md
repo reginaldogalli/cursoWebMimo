@@ -1,2 +1,2 @@
-# Curso-html-mimo
+# Curso-web-mimo
 Repositório com exercicios de prática
